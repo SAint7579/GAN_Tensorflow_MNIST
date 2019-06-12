@@ -1,4 +1,4 @@
-# GAN to generate images of Hand Wirtten numbers
+# GAN to generate images of hand wirtten numbers
 ## Tensorflow version 1.12
 
 Model is trained to generate images similar to the MNIST dataset.</br>
